@@ -1,3 +1,5 @@
+JRE System Library [jdk-21]
+
 The test case is stored at /tabletest/src/test/java/com/webresturantstore/test/TableTest.java.  
 This is a junit test case using selenium and coded in java.  
 Executed test results are stored in 2 log files in the /tabletest/logs folder.  
