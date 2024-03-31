@@ -1,4 +1,4 @@
-JRE System Library [jdk-21]
+JRE System Library [jdk-21]  please update the Project Build Path is necessary.
 
 The test case is stored at /tabletest/src/test/java/com/webresturantstore/test/TableTest.java.  
 This is a junit test case using selenium and coded in java.  
